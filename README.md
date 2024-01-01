@@ -1,4 +1,4 @@
-Hi 👋 My name is Mariusz
+Hi 👋 My name is Krofi
 ========================
 
 Amateur Programmer
