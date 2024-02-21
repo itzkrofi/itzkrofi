@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm itzkrofi from Poland.<br><br>- 📚 I'm currently learning Next.js and React<br>-  🚀  I'm currently working on <a href="https://kruszeleq.github.io">my page</a>. <br>- ⚡ In my free time I am playing games.</p>
+<p align="left">I'm itzkrofi from Poland.<br><br>- 📚 I'm currently learning Next.js and React<br>-  🚀  I'm currently working on <a href="https://kruszeleq.github.io">my page</a>. (only Polish language for now) <br>- ⚡ In my free time I am playing games.</p>
 
 ###
 
