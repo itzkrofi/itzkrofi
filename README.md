@@ -68,6 +68,8 @@
 
 ###
 
+[![wakatime](https://wakatime.com/badge/user/9c6bf9e3-b032-4c2f-8afd-d990ccc4c13c.svg)](https://wakatime.com/@9c6bf9e3-b032-4c2f-8afd-d990ccc4c13c)
+
 <!--START_SECTION:waka-->
 
 ```txt
