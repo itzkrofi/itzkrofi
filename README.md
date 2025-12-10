@@ -1,5 +1,3 @@
-<img align="left" height="150" src="https://i.imgur.com/sPHE776.png"  />
-
 ###
 
 <div align="center">
@@ -24,43 +22,18 @@
 
 ###
 
-<p align="left">I'm itzkrofi from Poland.<br><br>- 📚 I'm currently learning Next.js, React.<br>- ⚡ In my free time I'm playing games, fixing cars, programming 4fun.</p>
+<p align="left">I'm Mariusz from Poland.<br><br>- 📚 I'm currently learning React.<br>- ⚡ In my free time I'm playing games, fixing cars, programming 4fun.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,tailwind,next,react,arch,pnpm,discordjs,mysql,express,mongo" />
+  </a>
+</p>
 
 ###
 
@@ -71,15 +44,6 @@
 [![wakatime](https://wakatime.com/badge/user/9c6bf9e3-b032-4c2f-8afd-d990ccc4c13c.svg)](https://wakatime.com/@9c6bf9e3-b032-4c2f-8afd-d990ccc4c13c)
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript     12 hrs 28 mins  ███████████████████████░░   91.59 %
-shell script   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-JSON           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-YAML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Markdown       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-```
-
 <!--END_SECTION:waka-->
 
 ###
