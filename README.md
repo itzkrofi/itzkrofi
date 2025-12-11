@@ -44,6 +44,15 @@
 [![wakatime](https://wakatime.com/badge/user/9c6bf9e3-b032-4c2f-8afd-d990ccc4c13c.svg)](https://wakatime.com/@9c6bf9e3-b032-4c2f-8afd-d990ccc4c13c)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript     12 hrs 49 mins  ██████████████████████▒░░   88.87 %
+shell script   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+JSON           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+YAML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
